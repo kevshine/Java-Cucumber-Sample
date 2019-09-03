@@ -12,7 +12,7 @@ This example is a single feature file with one scenario. The scenario has three 
 Git:
 
     git clone https://github.com/kevshine/Java-Cucumber-Sample.git
-    cd cucumber-java-sample
+    cd Java-Cucumber-Sample
 
 
 
