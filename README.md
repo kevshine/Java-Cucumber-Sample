@@ -11,12 +11,11 @@ This example is a single feature file with one scenario. The scenario has three 
 
 Git:
 
-    git clone https://github.com/cucumber/cucumber-java-sample.git
+    git clone https://github.com/kevshine/Java-Cucumber-Sample.git
     cd cucumber-java-sample
 
 
 
-Or simply [download a zip](https://github.com/cucumber/cucumber-java-sample/archive/master.zip) file.
 
 ## Use Maven
 
